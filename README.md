@@ -12,10 +12,6 @@ This repository devoted to provide detailed answers to [Homework 3 - Master's De
 	> It is a `bash` script that give an answer to CLQ question.
 
 
-
-__*Remark:*__ Since interactive plots are present open [this](http://nbviewer.jupyter.org/github/CriMenghini/Wikipedia/blob/master/Mention/Mention_draft.ipynb) link to read the `Notebook` correctly.
-The goal of the `Notebook` is to provide an example that shows how to use the implemented code and to carry out a small analysis having as the object of interest 'Matteo Renzi'. We proceed with the following steps:
-
 In case the map is not visible, here how it looks like.
 ![map](image.jpg)
 
